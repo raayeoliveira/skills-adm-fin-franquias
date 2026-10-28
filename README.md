@@ -33,8 +33,6 @@ cd ~/skills-adm-fin-franquias && git pull
 
 | Skill | O que faz | Cadência |
 |---|---|---|
-| `analise-faturamento-franquia` | Gera análise executiva do faturamento de uma franquia (últimos 12 meses, portfólio, diárias, reservas, taxa de limpeza, 8% + limpeza, despesas Sapron) | Sob demanda |
-| `analise-comissao-enxoval` | Soma comissões Seazone do mês cruzando Matinali/RM + Lojinha + Jornada Enxoval | Mensal |
 | `taxa-limpeza-antes` | Mostra a taxa de limpeza que cada imóvel cobrava ANTES dos ajustes da Calculadora 2026, com histórico de troca | Sob demanda |
 
 ## Skills a herdar do David (lote 2 — pendente de migração até 30/10/2026)

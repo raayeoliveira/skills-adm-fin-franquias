@@ -1,0 +1,90 @@
+[
+ {
+  "code": "BIP70006",
+  "franqueado": "Franqueado A",
+  "status": "Active",
+  "taxa_antes": 140,
+  "taxa_hoje": 375,
+  "mudancas": "1",
+  "historico": "18/09/2026 18:48;140;375;dispatch_stays_sync_cleaning_fee;r;21/08/2026",
+  "taxa_ult_foto": 375,
+  "data_ult_foto": "18/09/2026"
+ },
+ {
+  "code": "RFM0044",
+  "franqueado": "Franqueado A",
+  "status": "Active",
+  "taxa_antes": 350,
+  "taxa_hoje": 290,
+  "mudancas": "0",
+  "historico": null,
+  "taxa_ult_foto": 350,
+  "data_ult_foto": "16/09/2026"
+ },
+ {
+  "code": "FOTO0001",
+  "franqueado": "Franqueado B",
+  "status": "Active",
+  "taxa_antes": 300,
+  "taxa_hoje": 260,
+  "mudancas": "1",
+  "historico": "20/09/2026 10:00;300;260;cloud@seazone.com.br;f;15/09/2026",
+  "taxa_ult_foto": 260,
+  "data_ult_foto": "20/09/2026"
+ },
+ {
+  "code": "UNE1105",
+  "franqueado": "Franqueado C",
+  "status": "Active",
+  "taxa_antes": 230,
+  "taxa_hoje": 190,
+  "mudancas": "3",
+  "historico": "21/09/2026 18:56;230;190;dispatch_stays_sync_cleaning_fee;r;01/09/2026|22/09/2026 14:09;190;215;vistoria-client@seazone.com.br;r;21/09/2026|23/09/2026 00:53;215;190;dispatch_stays_sync_cleaning_fee;r;22/09/2026",
+  "taxa_ult_foto": 190,
+  "data_ult_foto": "23/09/2026"
+ },
+ {
+  "code": "PRY0002",
+  "franqueado": "Franqueado A",
+  "status": "Active",
+  "taxa_antes": 300,
+  "taxa_hoje": 300,
+  "mudancas": "0",
+  "historico": null,
+  "taxa_ult_foto": 300,
+  "data_ult_foto": "07/05/2026"
+ },
+ {
+  "code": "BIP0002",
+  "franqueado": "Franqueado A",
+  "status": "Onboarding",
+  "taxa_antes": null,
+  "taxa_hoje": 0,
+  "mudancas": "0",
+  "historico": null,
+  "taxa_ult_foto": 0,
+  "data_ult_foto": "04/05/2026"
+ },
+ {
+  "code": "ZER0001",
+  "franqueado": "Franqueado D",
+  "status": "Active",
+  "taxa_antes": 250,
+  "taxa_hoje": 0,
+  "mudancas": "0",
+  "historico": null,
+  "taxa_ult_foto": 0,
+  "data_ult_foto": "22/09/2026"
+ },
+ {
+  "code": "ZTR0001",
+  "franqueado": "Franqueado E",
+  "status": "Active",
+  "taxa_antes": 300,
+  "taxa_hoje": 300,
+  "mudancas": "0",
+  "historico": null,
+  "taxa_ult_foto": 0,
+  "data_ult_foto": "24/09/2026"
+ }
+]
